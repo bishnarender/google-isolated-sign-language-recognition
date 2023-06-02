@@ -4,4 +4,4 @@
 
 -----
 
-<b>For this project, detailed description and files will be uploaded till 10th June, 2023.</b>
+<b>For this project, detailed description and remaining files will be uploaded till 10th June, 2023.</b>
