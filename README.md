@@ -1,6 +1,6 @@
 ## google-isolated-sign-language-recognition
-## score at 5th position is achieved.
-![islr_submission](https://github.com/bishnarender/google-isolated-sign-language-recognition/assets/49610834/d6a7a9f4-83e6-4792-97a5-5c6badffd0dd)
+## score at 3rd position is achieved.
+![islr_submission](https://github.com/bishnarender/google-isolated-sign-language-recognition/assets/49610834/0153ab28-cecb-4477-bf73-f09d1fb291bd)
 
 -----
 
