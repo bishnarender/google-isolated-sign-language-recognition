@@ -26,7 +26,7 @@ The record for 512 parquet files is saved in one tfrecord file.
 You can watch the actual indices of landmarks/keypoints by zooming the below image.
 ![indices_landmarks](https://github.com/bishnarender/google-isolated-sign-language-recognition/assets/49610834/27abfba3-c39e-4ccb-848f-c251c97bf9fe)
 
-Function filter_nans_tf(): removes that frame whose all (543*3) values are nan. i.e., if input is (23,543,3) and if 11th frame has all (543*3) as nan then the new input would be (22,543,3).
+Function filter_nans_tf(): removes that frame whose all (543 x 3) values are nan. i.e., if input is (23,543,3) and if 11th frame has all (543 x 3) as nan then the new input would be (22,543,3).
 
 Augmentaton techniques: Resize, Flip (left to right and vice-versa for various parts of body), Oneof([scale + shear_x + shift + degree, scale + shear_y + shift + degree]), Crop/Masking.
 
